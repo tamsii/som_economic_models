@@ -1,0 +1,38 @@
+Country,Country Code,2014_expenditure_on_social_protection,2014_expenditure_on_families,2014_expenditure_on_health_care,2014_healthy_life_years_at_age_65,2014_gini_income,2014_fertility_rate
+Belgium,BEL,30,7.25,27.81,11.0,28.1,1.74
+Bulgaria,BGR,18.4,10.39,26.81,9.2,37.4,1.53
+Czech Republic,CZE,19.5,8.42,30.45,8.9,25.9,1.53
+Denmark,DNK,34.4,10.62,19.84,11.9,28.4,1.69
+Germany,DEU,29.1,10.82,33.58,6.8,,1.47
+Estonia,EST,14.8,10.75,28.97,5.5,34.6,1.54
+Ireland,IRL,21,9.09,33.77,11.9,31.9,1.89
+Greece,GRC,26.2,4.39,18.03,7.4,35.8,1.3
+Spain,ESP,25.5,5.2,25.54,9.7,36.1,1.32
+France,FRA,34.5,7.34,26.39,10.6,32.3,2.0
+Croatia,HRV,21.8,8.84,31.16,5.9,32.1,1.46
+Italy,ITA,29.8,4.02,22.6,7.6,34.7,1.37
+Cyprus,CYP,20.2,7.13,16.4,9.5,35.6,1.364
+Latvia,LVA,14.5,8.96,23.84,4.3,35.1,1.65
+Lithuania,LTU,15.3,7.07,26.63,6.1,37.7,1.63
+Luxembourg,LUX,22.5,15.35,24.91,11.1,31.2,1.5
+Hungary,HUN,19.7,11.78,24.38,6.1,30.9,1.44
+Malta,MLT,17.8,6.71,32.6,13.5,29.0,1.38
+Netherlands,NLD,30.6,2.93,32.39,10.5,28.6,1.71
+Austria,AUT,29.8,9.23,24.59,8.0,30.5,1.46
+Poland,POL,19.4,7.2,22.3,7.8,32.8,1.32
+Portugal,PRT,26.9,4.36,22.63,6.2,35.6,1.23
+Romania,ROU,14.7,8.12,26.28,5.9,36.0,1.56
+Slovenia,SVN,23.9,7.73,30.28,8.3,25.7,1.58
+Finland,FIN,31.7,10.1,23.42,9.1,26.8,1.71
+Sweden,SWE,29.3,10.28,25.38,15.9,28.4,1.88
+United Kingdom,GBR,27.2,10.28,31.34,10.2,34.0,1.81
+Iceland,ISL,23.1,11.43,35,15.3,27.8,1.93
+Liechtenstein,LIE,:,,,,,1.59
+Norway,NOR,25.4,12.44,28.02,15.6,26.8,1.75
+Switzerland,CHE,26.3,5.57,27.64,9.9,32.5,1.54
+Montenegro,MNE,:,:,:,,38.8,1.719
+North Macedonia,MKD,:,:,:,,35.2,1.504
+Albania,ALB,:,,,,34.6,1.688
+Serbia,SRB,22,5.74,25.49,,40.5,1.46
+Turkey,TUR,12,3.07,29.66,,41.2,2.109
+Bosnia and Herzegovina,BIH,:,:,:,,,1.303
