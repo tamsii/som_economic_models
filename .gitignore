@@ -1,0 +1,4 @@
+notebooks/self_organizing_maps/.ipynb_checkpoints/
+*.pyc
+*.pyo
+.idea
